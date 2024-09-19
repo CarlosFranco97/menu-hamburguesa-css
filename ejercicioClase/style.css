@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-form {
+    background-color: red;
+    width: 100%;
+    height: 200px;
+}
+
+.container-form > nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-search {
+    width: 200px;
+}
+
+.container-form .input-check {
+    display: none;
+}
+
+
+
